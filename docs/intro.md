@@ -8,7 +8,7 @@ Get a bot up and running with **in less than 5 minutes**.
 
 ## Getting Started
 
-Get started by making sure you're at **[creating a new bot](/bots/create)**.
+Get started by making sure you're at **[creating a new bot](https://airtisan.app/bots/create)**. If you don't have an account yet, make one [here](https://airtisan.app/signup).
 
 ### What you'll need
 
