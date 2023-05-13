@@ -2,13 +2,13 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Your First Bot
 
-Let's discover **Onyx Chat in less than 5 minutes**.
+Get a bot up and running with **in less than 5 minutes**.
 
 ## Getting Started
 
-Get started by **[creating a new bot](/bots/create)**.
+Get started by making sure you're at **[creating a new bot](/bots/create)**.
 
 ### What you'll need
 
