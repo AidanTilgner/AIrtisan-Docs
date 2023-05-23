@@ -6,12 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Onyx Chat Docs',
-  tagline: 'Build a chat app with Onyx Chat',
+  title: 'AIrtisan Docs',
+  tagline: 'Build a chat app with AIrtisan',
   favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
-  url: 'https://docs.onyx-chat.vvibrant.dev',
+  url: 'https://docs.airtisan.dev',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -56,9 +56,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Onyx Chat Docs',
+        title: 'AIrtisan Docs',
         logo: {
-          alt: 'Onyx Chat Logo',
+          alt: 'AIrtisan Logo',
           src: 'img/logo.svg',
         },
         items: [
