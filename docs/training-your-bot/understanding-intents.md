@@ -20,13 +20,16 @@ It's best to be specific when defining intents. For example, instead of defining
 ## How does AIrtisan classify intents?
 Using AIrtisan, you can define a list of intents that your chatbot will be able to recognize. For each intent, you can provide a list of example messages that the chatbot will use to learn how to recognize the intent. For example, if you wanted to create a chatbot that could recognize the "identify business services" intent, you could provide the following example messages:
 
-> "What services do you provide."
-> "How can you help me."
-> "What do you do."
+- "What services do you provide."
+- "How can you help me."
+- "What do you do."
 
 Based on these messages, there may be a few ways that the chatbot should respond. For example, the chatbot could respond with:
 
-> "We provide a range of services, including X, Y, and Z."
-> "We can help you with X, Y, and Z."
-> "We do X, Y, and Z."
+- "We provide a range of services, including X, Y, and Z."
+- "We can help you with X, Y, and Z."
+- "We do X, Y, and Z."
 
+In order to determine which response to use, the chatbot will use the intent classification model to determine which intent the user's message is most similar to. In this case, the user's message is most similar to the "identify business services" intent, so the chatbot will respond with one of the responses listed.
+
+Now, to put your new knowledge of intents to use, continue onto the next section where you'll learn about training your chatbot.
