@@ -4,11 +4,14 @@ sidebar_position: 1
 
 # Understanding AIrtisan
 
-What is AIrtisan? Why do we believe it's valuable? And how can you use it to achieve your goals?
+What is AIrtisan? Why do we believe it's valuable? And how can you use it to achieve your goals? Also, how the heck is it pronounced??
 
 # Understanding AIrtisan
 
 Welcome to the AIrtisan documentation! Here, we'll guide you through the ins and outs of AIrtisan, an advanced chatbot development suite that revolutionizes the chatbot creation experience. In this introduction, we'll cover what AIrtisan is, its value proposition, and how you can leverage it to achieve your goals.
+
+## How do you pronounce AIrtisan?
+As far as we're concerned, you can pronounce AIrtisan however you'd like. We usually pronounce it the same as "artisan" (i.e., "art-isan"), but we've heard it pronounced in many different ways. We've heard "air-tisan," "ay-ih-tisan," and even "ay-er-tee-san." So, feel free to pronounce it however you'd like!
 
 ## What is AIrtisan?
 
